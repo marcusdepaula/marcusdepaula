@@ -1,17 +1,15 @@
 ![bannergit](https://user-images.githubusercontent.com/95004861/171257982-01823bb9-35fa-4f6d-b280-a6eb32b3eb9e.png)
 
 ---
+<h3 style="text-align:center;">Former lawyer, specialized in Digital Law.Discovered my passion for programming during my post graduation studies, where I could get in touch with the vast world of IT and decided to make a change of scenery, radically changing the trajectory of my career to be a junior full-stack programmer.</h3>
 
-**Former lawyer, specialized in Digital Law.**
-</br>
-**Discovered my passion for programming during my post graduation studies, where I could get in touch with the vast world of IT and decided to make a change of scenery, radically changing the trajectory of my career to be a junior full-stack programmer.**
 ---
 
-<h3> About me </h3>
+<h3> :man_technologist: About me </h3>
 
-- 🤔 &nbsp; **Exploring new technologies and developing software solutions.**
-- 🎓 &nbsp; **Studying Computer Science at  <a href="https://www.furb.br/web/1770/cursos/graduacao/cursos/ciencia-da-computacao/apresentacao">**FURB**</a>**
-- 🌱 &nbsp; **Learning: Python, Cloud Computing e Web-Design**.
+- **Exploring new technologies and developing software solutions.**
+- **Studying Computer Science at  <a href="https://www.furb.br/web/1770/cursos/graduacao/cursos/ciencia-da-computacao/apresentacao">**FURB**</a>**
+- **Learning: Python, Cloud Computing e Web-Design**.
 
 
 ## 🚀 Skills
