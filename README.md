@@ -2,7 +2,7 @@
 
 
 <div>
-  <h4 style="text-align:center;">Former lawyer, specialized in Digital Law. Discovered my passion for programming during my post graduation studies, where I could get    in touch with the vast world of IT and decided to make a change of scenery, radically changing the trajectory of my career to be a junior full-stack programmer.</h4>
+  <h4 style="text-align:justify;">Former lawyer, specialized in Digital Law. Discovered my passion for programming during my post graduation studies, where I could get    in touch with the vast world of IT and decided to make a change of scenery, radically changing the trajectory of my career to be a junior full-stack programmer.</h4>
 </div>
 
 ---
