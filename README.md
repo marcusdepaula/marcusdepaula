@@ -10,8 +10,8 @@
 <h3> :man_technologist: About me </h3>
 
 - **Exploring new technologies and developing software solutions.**
-- **Studying Computer Science at  <a href="https://www.furb.br/web/1770/cursos/graduacao/cursos/ciencia-da-computacao/apresentacao">**FURB**</a>**
-- **Learning: Python, Cloud Computing e Web-Design**.
+- **Studying Software Engineering at  <a href="https://estacio.br/cursos/graduacao/engenharia-de-software">**Estácio**</a>**
+- **Intersted: Python, Cloud Computing e Web-Design**.
 
 
 ## 🚀 Skills
